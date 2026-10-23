@@ -11,16 +11,6 @@ O usuário cria uma conta, faz login e gerencia suas tarefas (com prioridade, da
 | Ludmilla Táfny | Engenharia de Software |
 | Ruan Santos | Engenharia de Software |
 
-## Telas
-
-| Login | Cadastro | Lista de tarefas |
-|---|---|---|
-| ![Login](docs/prints/01-login.png) | ![Cadastro](docs/prints/02-cadastro.png) | ![Lista de tarefas](docs/prints/03-lista.png) |
-
-| Nova / editar tarefa | Detalhes da tarefa | Perfil |
-|---|---|---|
-| ![Formulário](docs/prints/04-formulario.png) | ![Detalhes](docs/prints/05-detalhes.png) | ![Perfil](docs/prints/06-perfil.png) |
-
 ## Funcionalidades
 
 - Cadastro e login de usuários, com sessão mantida ao reabrir o app
